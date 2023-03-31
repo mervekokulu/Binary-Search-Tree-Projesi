@@ -1,4 +1,4 @@
-# Binary-Search-Tree-Projesi
+# Binary Search Tree Projesi
 Patika.dev-Veri Yapıları ve Algoritmalar-Binary Search Tree Projesi
 
 Proje 3
