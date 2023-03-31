@@ -10,7 +10,7 @@ Proje 3
 
 Root 7'dir. Roottan büyük olanlar sağ tarafa, küçük olanlar sol tarafa yazılarak ağaç yapısı oluşturulur.
 
-'''
+```
         7
        / \
       5   8
@@ -21,4 +21,4 @@ Root 7'dir. Roottan büyük olanlar sağ tarafa, küçük olanlar sol tarafa yaz
     /\
     2 4
     
-'''
+```
